@@ -2,58 +2,57 @@
 @tailwind components;
 @tailwind utilities;
 
-@layer base{
-    @font-face {
-        font-family: 'dana';
-        src: url(font/danablack.ttf);
-        font-weight: 900;
-    }
-    @font-face {
-        font-family: 'dana';
-        src: url(font/danabold.ttf);
-        font-weight: 700;
+@font-face {
+    font-family: 'dana';
+    src: url(font/danablack.ttf);
+    font-weight: 900;
+}
+@font-face {
+    font-family: 'dana';
+    src: url(font/danabold.ttf);
+    font-weight: 700;
+
+}
+@font-face {
+    font-family: 'dana';
+    src: url(font/danademibold.ttf);
+    font-weight: 600;
+
+}
+@font-face {
+    font-family: 'dana';
+    src: url(font/danaextrabold.ttf);
+    font-weight: 800;
+
+}
+@font-face {
+    font-family: 'dana';
+    src: url(font/danaextralight.ttf);
+    font-weight: 200;
+
+}
+@font-face {
+    font-family: 'dana';
+    src: url(font/danalight.ttf);
+    font-weight: 300;
+
+}
+@font-face {
+    font-family: 'dana';
+    src: url(font/danamedium.ttf);
+    font-weight: 500;
+
+}
+@font-face {
+    font-family: 'dana';
+    src: url(font/danaregular.ttf);
+    font-weight: 400;
+
+}
+@font-face {
+    font-family: 'dana';
+    src: url(font/danathin.ttf);
+    font-weight: 100;
+
+}
   
-    }
-    @font-face {
-        font-family: 'dana';
-        src: url(font/danademibold.ttf);
-        font-weight: 600;
-  
-    }
-    @font-face {
-        font-family: 'dana';
-        src: url(font/danaextrabold.ttf);
-        font-weight: 800;
-  
-    }
-    @font-face {
-        font-family: 'dana';
-        src: url(font/danaextralight.ttf);
-        font-weight: 200;
-  
-    }
-    @font-face {
-        font-family: 'dana';
-        src: url(font/danalight.ttf);
-        font-weight: 300;
-  
-    }
-    @font-face {
-        font-family: 'dana';
-        src: url(font/danamedium.ttf);
-        font-weight: 500;
-  
-    }
-    @font-face {
-        font-family: 'dana';
-        src: url(font/danaregular.ttf);
-        font-weight: 400;
-  
-    }
-    @font-face {
-        font-family: 'dana';
-        src: url(font/danathin.ttf);
-        font-weight: 100;
-  
-    }
-  }
